@@ -1,15 +1,18 @@
-# Discord Server Cloner
-- An efficient tool to clone Discord server without having any need of admin priveleges.
 
-## Features
-- **No Admin Privileges Needed**: Clone servers without requiring admin rights.
-- **Full Server Replication**: Copy channels, roles, categories, and other server settings.
-- **User-Friendly**: Simple interface and easy to follow prompts.
-- **Customizable Cloning**: Choose whether to include server emojis in the clone.
+## Discord Server Cloner
 
-## Installation & Usage
-1. Download the repository and extract the files.
-2. Run the `install.bat` file to install all necessary Python packages.
-3. Follow the on screen instructions to provide your Discord token and server IDs.
-4. The tool will guide you through the cloning process.
+### Description
 
+**Discord Server Cloner** is a tool designed to clone the configuration and settings of a Discord server. It allows users to easily recreate a server from a template, simplifying community management and server duplication for testing or organizational purposes.
+
+### Features
+- Clone text and voice channels.
+- Replicate roles and permissions.
+- Customization options for adapting the cloned server's settings.
+
+### Prerequisites
+- Python 3.x
+- Required libraries: `discord.py` (or others as needed).
+
+### Disclaimer
+This program is provided as-is, without any warranty. The use of **Discord Server Cloner** must comply with Discord's terms of service and applicable laws. I am not responsible for the program being used in an unethical or illegal manner. Please ensure that you use this tool in a way that respects others' privacy and rights and adheres to all relevant regulations.
