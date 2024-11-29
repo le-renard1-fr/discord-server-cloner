@@ -1,8 +1,6 @@
-
-## Discord Server Cloner
+# Discord Server Cloner
 
 ### Description
-
 **Discord Server Cloner** is a tool designed to clone the configuration and settings of a Discord server. It allows users to easily recreate a server from a template, simplifying community management and server duplication for testing or organizational purposes.
 
 ### Features
